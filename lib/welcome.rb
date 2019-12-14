@@ -4,3 +4,7 @@
 puts "Welcome to Tic Tac Toe!"
 
 # learn submit
+
+name = "david"
+
+puts "hello" + name "."
