@@ -7,4 +7,4 @@ puts "Welcome to Tic Tac Toe!"
 
 name = "david"
 
-puts "hello #{name}.
+puts "hello #{name}."
